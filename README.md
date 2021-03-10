@@ -2,7 +2,7 @@
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021  
-**Name:** Mehmet
+**Name:** Mehmet         
 **Surname:** Durmuş  
 **Email:** mehmetdrms666@gmail.com  
 
